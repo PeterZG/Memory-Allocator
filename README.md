@@ -90,4 +90,5 @@ Heap state will be displayed after each operation using `dump_heap`.
 
 ## Acknowledgments
 
-This project is part of the COMP1521 course and provides hands-on experience with implementing custom memory allocators.
+This project was developed as part of the COMP1521 course at UNSW, aimed at providing hands-on experience in implementing a custom memory allocator. Special thanks to the course for offering a solid framework and practical opportunities to deepen our understanding of fundamental memory management concepts.
+
